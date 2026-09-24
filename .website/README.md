@@ -1,9 +1,8 @@
 ---
 genres:
-  - adventure
-  - action
+  - platformer
+  - puzzle
 post: https://github.com/SalvatorePreviti/js13k-2022/blob/main/post-mortem.md
-# See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
 Lucifer: "Damn. Infernal delivery service failed again. A delivery of evil souls fell in an area under construction. Dante, take them where they belong, to the 8th circle."
