@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - action
 post: https://github.com/SalvatorePreviti/js13k-2022/blob/main/post-mortem.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
